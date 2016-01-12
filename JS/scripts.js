@@ -48,3 +48,22 @@ $(function() {
     $("#initially-hidden7").toggle();
   });
 });
+$(function() {
+  $(".clickable8").click(function() {
+    $("initially-showing8").toggle();
+    $("#initially-hidden8").toggle();
+  });
+});
+
+$(function() {
+  $(".clickable9").click(function() {
+    $("initially-showing9").toggle();
+    $("#initially-hidden9").toggle();
+  });
+});
+$(function() {
+  $(".clickable10").click(function() {
+    $("initially-showing10").toggle();
+    $("#initially-hidden10").toggle();
+  });
+});
