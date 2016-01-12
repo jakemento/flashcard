@@ -5,21 +5,65 @@
 #initially-hidden2 {
   display: none;
 }
+
+#initially-hidden3 {
+  display: none;
+}
+
+#initially-hidden4 {
+  display: none;
+}
+
+#initially-hidden5 {
+  display: none;
+}
+
+#initially-hidden6 {
+  display: none;
+}
+
+#initially-hidden7 {
+  display: none;
+}
 .clickable {
   cursor: pointer;
   color: #0088cc;
+  text-decoration: underline;
 }
 
-.clickable {
+.clickable2 {
+  cursor: pointer;
+  color: #0088cc;
   text-decoration: underline;
 }
 
 
-.clickable2 {
+.clickable3 {
   cursor: pointer;
   color: #0088cc;
+  text-decoration: underline;
 }
 
-.clickable2 {
+.clickable4 {
+  cursor: pointer;
+  color: #0088cc;
+  text-decoration: underline;
+}
+
+.clickable5 {
+  cursor: pointer;
+  color: #0088cc;
+  text-decoration: underline;
+}
+
+.clickable6 {
+  cursor: pointer;
+  color: #0088cc;
+  text-decoration: underline;
+}
+
+.clickable7 {
+  cursor: pointer;
+  color: #0088cc;
   text-decoration: underline;
 }
